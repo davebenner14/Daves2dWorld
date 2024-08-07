@@ -10,7 +10,6 @@ body {
 #outer-border {
   width: 700px;
   height: 500px;
-  background-color: #4a2c2a;
   display: flex;
   justify-content: center;
   align-items: center;
